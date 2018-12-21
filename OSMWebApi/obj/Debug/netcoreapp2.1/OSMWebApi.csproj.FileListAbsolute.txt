@@ -1,0 +1,14 @@
+C:\Users\marvi\source\repos\OSMWebApi\OSMWebApi\bin\Debug\netcoreapp2.1\OSMWebApi.deps.json
+C:\Users\marvi\source\repos\OSMWebApi\OSMWebApi\bin\Debug\netcoreapp2.1\OSMWebApi.runtimeconfig.json
+C:\Users\marvi\source\repos\OSMWebApi\OSMWebApi\bin\Debug\netcoreapp2.1\OSMWebApi.runtimeconfig.dev.json
+C:\Users\marvi\source\repos\OSMWebApi\OSMWebApi\bin\Debug\netcoreapp2.1\OSMWebApi.dll
+C:\Users\marvi\source\repos\OSMWebApi\OSMWebApi\bin\Debug\netcoreapp2.1\OSMWebApi.pdb
+C:\Users\marvi\source\repos\OSMWebApi\OSMWebApi\obj\Debug\netcoreapp2.1\OSMWebApi.csprojAssemblyReference.cache
+C:\Users\marvi\source\repos\OSMWebApi\OSMWebApi\obj\Debug\netcoreapp2.1\OSMWebApi.csproj.CoreCompileInputs.cache
+C:\Users\marvi\source\repos\OSMWebApi\OSMWebApi\obj\Debug\netcoreapp2.1\OSMWebApi.RazorAssemblyInfo.cache
+C:\Users\marvi\source\repos\OSMWebApi\OSMWebApi\obj\Debug\netcoreapp2.1\OSMWebApi.RazorAssemblyInfo.cs
+C:\Users\marvi\source\repos\OSMWebApi\OSMWebApi\obj\Debug\netcoreapp2.1\OSMWebApi.AssemblyInfoInputs.cache
+C:\Users\marvi\source\repos\OSMWebApi\OSMWebApi\obj\Debug\netcoreapp2.1\OSMWebApi.AssemblyInfo.cs
+C:\Users\marvi\source\repos\OSMWebApi\OSMWebApi\obj\Debug\netcoreapp2.1\OSMWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\marvi\source\repos\OSMWebApi\OSMWebApi\obj\Debug\netcoreapp2.1\OSMWebApi.dll
+C:\Users\marvi\source\repos\OSMWebApi\OSMWebApi\obj\Debug\netcoreapp2.1\OSMWebApi.pdb
