@@ -9,9 +9,9 @@ namespace OSMWebApi.Models
     public class OSMNd
     {
         [BsonElement("lon")]
-        public double lon;
+        public float lon;
 
         [BsonElement("lat")]
-        public double lat;
+        public float lat;
     }
 }
